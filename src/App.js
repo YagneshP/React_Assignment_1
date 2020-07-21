@@ -20,7 +20,7 @@ class App extends Component {
 
 	render() {
 		const style = {
-			border: '1px solid yellow',
+			border: '1px solid blue',
 			backgroundColor: 'Gray',
 			padding: '16px',
 			cursor: 'pointer'
